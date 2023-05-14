@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "1fcd7bdbd11c5131",
+    "type": "split",
+    "children": [
+      {
+        "id": "657699fa1594e01c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b69dabfa4df81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络 - 传输层.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "024ea8eaafd9be11",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f41012a57cb0c6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95fa7585ede32aad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92b569791b9ba787",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbe6f5b016ae592b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcdfdc7333897bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b490fe4aa77b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c22d4d99e4ba01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机网络 - 传输层.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "273669137abda4b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机网络 - 传输层.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da0db2b5052db3a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f004d4419ef81c5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机网络 - 传输层.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "95fa7585ede32aad",
+  "lastOpenFiles": [
+    "计算机网络 - 概述.md",
+    "计算机网络 - 传输层.md"
+  ]
+}
